@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
             case R.id.bt:
                 Log.d("TAG","Hello Word");
+                //yangjie
                 break;
         }
     }
